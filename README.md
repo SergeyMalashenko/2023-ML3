@@ -15,3 +15,4 @@
 |3  |29.09.2022 |Нейросеть на PyTorch                         |[github](seminars/03_neuralnetwork/seminar03_neuralnetwork.ipynb)    |
 |4  |06.10.2022 |Свертки & сети                               |[github](seminars/04_convolutions/seminar04_convolutions.ipynb  )    |
 |5  |13.10.2022 |Обучение CNN                                 |[github](seminars/05_cnn/seminar05_cnn.ipynb                    )    |
+|5  |20.10.2022 |Mask R-CNN                                   |[github](seminars/06_mask_r_cnn/seminar06_mask_r_cnn.ipynb      )    |
