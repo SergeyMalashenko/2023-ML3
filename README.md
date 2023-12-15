@@ -20,5 +20,6 @@
 |8  |03.11.2023 |Segmenatation problem. U-Net model           |[github](seminars/08_segmentation/seminar08_segmentation.ipynb  )    |
 |10 |17.11.2023 |Style Transfer                               |[github](seminars/10_styletransfer/seminar10_styletransfer.ipynb)    |
 |11 |24.11.2023 |Recurrent Neural Networks. CRNN              |[github](seminars/11_crnn/seminar11_crnn.ipynb                  )    |
-|12 |24.11.2023 |Vision Transformer                           |[github](seminars/12_vit/seminar12_vit.ipynb)                        |
-|13 |24.11.2023 |FROMAGe                                      |[github](seminars/13_fromage/seminar13_fromage.ipynb)                |
+|12 |01.12.2023 |Vision Transformer                           |[github](seminars/12_vit/seminar12_vit.ipynb                    )    |
+|13 |08.12.2023 |FROMAGe                                      |[github](seminars/13_fromage/seminar13_fromage.ipynb            )    |
+|14 |15.12.2023 |Efficiency                                    |[github](seminars/14_efficiency/seminar14_efficiency.ipynb      )    |
